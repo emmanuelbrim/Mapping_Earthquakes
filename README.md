@@ -12,4 +12,4 @@ A control was introduced on the map to help users toggle between the relevant la
 
 Below are examples of the map based on each layer.
 
-[!](https://github.com/emmanuelbrim/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/All%20earthquakes.PNG)
+[!  ](https://github.com/emmanuelbrim/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/images/All%20earthquakes.PNG)
