@@ -204,7 +204,7 @@ legend.onAdd = function() {
       style: function(feature){
         return{
           color: "red",
-          weight: 2.5
+          weight: 3
         }
       }
     }).addTo(tectonicquakes)
